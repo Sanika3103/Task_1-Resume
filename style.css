@@ -1,0 +1,25 @@
+.outer{
+    width : 1000px;
+    height : 1100px;
+    margin : 0px auto;
+}
+
+.outer h1{
+    text-align : center;
+}
+
+p{
+    text-align : left;
+    font-size : 25px;
+}
+
+.border{
+    width : 96%;
+    padding: 15px;
+    background-color: whitesmoke;
+    border : 1px solid black
+}
+
+h2{
+    float : right ;
+}
